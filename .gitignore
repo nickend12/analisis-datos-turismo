@@ -1,0 +1,22 @@
+# Entorno Virtual
+venv/
+env/
+ENV/
+
+# Archivos de caché de Python
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+# Archivos temporales de Excel y sistema
+~$*.xlsx
+~$*.xls
+.DS_Store
+Thumbs.db
+
+# Configuración de VS Code
+.vscode/
+
+# Salidas o reportes generados (opcional)
+*.html
