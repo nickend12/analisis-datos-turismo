@@ -38,3 +38,24 @@ FileNotFoundError: Archivo no encontrado: E:\analisis diferentes tipos datos\dat
 2026-10-26 21:48:13 [INFO] [PipelineMain]: ========================================
 2026-10-26 21:49:57 [INFO] [CargaDatos]: Cargando archivo desde: E:\analisis diferentes tipos datos\datos\datos_procesados_turismo.csv
 2026-10-26 21:49:57 [INFO] [CargaDatos]: Carga exitosa: 10000 filas y 15 columnas.
+2026-11-02 21:11:40 [INFO] [CargaDatos]: Cargando archivo desde: /workspaces/analisis-datos-turismo/datos/datos_procesados_turismo.csv
+2026-11-02 21:11:40 [INFO] [CargaDatos]: Carga exitosa: 10000 filas y 15 columnas.
+2026-11-02 21:11:42 [INFO] [PipelineMain]: ========================================
+2026-11-02 21:11:42 [INFO] [PipelineMain]: INICIANDO PIPELINE DE ANÁLISIS DE DATOS
+2026-11-02 21:11:42 [INFO] [PipelineMain]: ========================================
+2026-11-02 21:11:42 [INFO] [CargaDatos]: Cargando archivo desde: /workspaces/analisis-datos-turismo/datos/datos_procesados_turismo.csv
+2026-11-02 21:11:42 [INFO] [CargaDatos]: Carga exitosa: 10000 filas y 15 columnas.
+2026-11-02 21:11:43 [INFO] [Visualizaciones]: Gráfico Seaborn guardado en: /workspaces/analisis-datos-turismo/output/graficos/vis1_gasto_alojamiento_box.png
+2026-11-02 21:11:43 [INFO] [Visualizaciones]: Gráfico Plotly guardado en: /workspaces/analisis-datos-turismo/output/graficos/vis2_tendencia_mensual.html
+2026-11-02 21:11:44 [INFO] [Reporte]: Informe Excel generado en: /workspaces/analisis-datos-turismo/output/informes/informe_ejecutivo.xlsx
+2026-11-02 21:11:44 [INFO] [PipelineMain]: ========================================
+2026-11-02 21:11:44 [INFO] [PipelineMain]: PIPELINE FINALIZADO EN 1.05 SEGUNDOS
+2026-11-02 21:11:44 [INFO] [PipelineMain]: ========================================
+2026-11-02 21:13:46 [INFO] [CargaDatos]: Cargando archivo desde: /workspaces/analisis-datos-turismo/datos/datos_procesados_turismo.csv
+2026-11-02 21:13:46 [INFO] [CargaDatos]: Carga exitosa: 10000 filas y 15 columnas.
+2026-11-02 21:16:16 [INFO] [CargaDatos]: Cargando archivo desde: /workspaces/analisis-datos-turismo/datos/datos_procesados_turismo.csv
+2026-11-02 21:16:16 [INFO] [CargaDatos]: Carga exitosa: 10000 filas y 15 columnas.
+2026-11-02 21:17:39 [INFO] [CargaDatos]: Cargando archivo desde: /workspaces/analisis-datos-turismo/datos/datos_procesados_turismo.csv
+2026-11-02 21:17:39 [INFO] [CargaDatos]: Carga exitosa: 10000 filas y 15 columnas.
+2026-11-02 21:20:52 [INFO] [CargaDatos]: Cargando archivo desde: /workspaces/analisis-datos-turismo/datos/datos_procesados_turismo.csv
+2026-11-02 21:20:52 [INFO] [CargaDatos]: Carga exitosa: 10000 filas y 15 columnas.

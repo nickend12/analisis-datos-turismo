@@ -46,6 +46,29 @@ analisis diferentes tipos datos/
 
 ## 📈 Visualizaciones Generadas
 
+## 🔎 Investigación y selección de herramientas
+
+Para desarrollar esta actividad se revisaron tres herramientas de visualización de datos populares:
+
+| Herramienta | Características principales | Ventajas | Limitaciones |
+|---|---|---|---|
+| **Tableau** | Plataforma especializada en análisis visual y creación de dashboards mediante una interfaz de arrastrar y soltar. | Permite construir paneles interactivos con rapidez, conectar múltiples fuentes y compartir resultados. | Algunas funciones avanzadas requieren licencia y su uso depende de una herramienta externa al entorno de desarrollo del proyecto. |
+| **Power BI** | Plataforma de Microsoft para integrar datos, crear modelos, medidas y reportes interactivos. | Buena integración con Excel y otros productos de Microsoft, además de opciones de publicación y colaboración. | La experiencia completa depende del ecosistema Microsoft y ciertas funciones requieren licencia o configuración adicional. |
+| **Python** | Lenguaje de programación que permite analizar datos y generar visualizaciones mediante bibliotecas como Matplotlib, Seaborn y Plotly. | Es flexible, reproducible, automatizable y está disponible gratuitamente. Facilita conectar la carga, validación, análisis, visualización y generación de informes en un mismo flujo. | Requiere conocimientos de programación y la construcción de dashboards puede demandar más trabajo inicial que una herramienta de arrastrar y soltar. |
+
+### Herramienta seleccionada
+
+Se seleccionó **Python** porque el conjunto de datos contiene variables categóricas, numéricas y temporales que requieren limpieza, transformación y análisis antes de visualizarse. Además, Python permite ejecutar todo el proceso de forma reproducible a partir del archivo CSV, guardar los resultados y volver a generar los informes cuando cambien los datos.
+
+La selección se relaciona con los objetivos de la actividad de la siguiente manera:
+
+* **Comparar el gasto según el tipo de alojamiento y el motivo del viaje:** se utilizó **Seaborn**, sobre Matplotlib, para generar un diagrama de caja que permite observar la distribución, dispersión y posibles valores extremos del gasto diario.
+* **Analizar la evolución temporal del gasto:** se utilizó **Plotly** para generar una línea interactiva con la tendencia mensual del gasto total. Esta alternativa facilita explorar los valores al pasar el cursor sobre el gráfico.
+* **Procesar y resumir los datos:** se utilizó **pandas** para cargar el dataset, convertir la fecha, agrupar los registros y producir el informe ejecutivo en Excel.
+* **Presentar el análisis de forma interactiva:** se incorporó **Streamlit** como dashboard web, con filtros por fecha, alojamiento y motivo de viaje.
+
+La elección considera la complejidad del dataset, la necesidad de combinar visualizaciones estáticas e interactivas, la facilidad de automatización y la disponibilidad de las bibliotecas dentro del entorno virtual del proyecto.
+
 ### 1. Distribución del Gasto Diario por Alojamiento y Motivo de Viaje (Seaborn)
 ![Distribución de Gasto Diario](output/graficos/vis1_gasto_alojamiento_box.png)
 
