@@ -109,3 +109,7 @@ FileNotFoundError: Archivo no encontrado: E:\analisis diferentes tipos datos\dat
 2026-11-05 22:48:13 [INFO] [PipelineMain]: ========================================
 2026-11-05 22:48:13 [INFO] [PipelineMain]: PIPELINE FINALIZADO EN 3.89 SEGUNDOS
 2026-11-05 22:48:13 [INFO] [PipelineMain]: ========================================
+2026-11-08 15:51:28 [INFO] [CargaDatos]: Cargando archivo desde: /workspaces/analisis-datos-turismo/datos/datos_procesados_turismo.csv
+2026-11-08 15:51:28 [INFO] [CargaDatos]: Carga exitosa: 10000 filas y 15 columnas.
+2026-11-08 15:54:14 [INFO] [CargaDatos]: Cargando archivo desde: /workspaces/analisis-datos-turismo/datos/datos_procesados_turismo.csv
+2026-11-08 15:54:14 [INFO] [CargaDatos]: Carga exitosa: 10000 filas y 15 columnas.
