@@ -59,3 +59,53 @@ FileNotFoundError: Archivo no encontrado: E:\analisis diferentes tipos datos\dat
 2026-11-02 21:17:39 [INFO] [CargaDatos]: Carga exitosa: 10000 filas y 15 columnas.
 2026-11-02 21:20:52 [INFO] [CargaDatos]: Cargando archivo desde: /workspaces/analisis-datos-turismo/datos/datos_procesados_turismo.csv
 2026-11-02 21:20:52 [INFO] [CargaDatos]: Carga exitosa: 10000 filas y 15 columnas.
+2026-11-05 02:15:36 [INFO] [PipelineMain]: ========================================
+2026-11-05 02:15:36 [INFO] [PipelineMain]: INICIANDO PIPELINE DE ANÁLISIS DE DATOS
+2026-11-05 02:15:36 [INFO] [PipelineMain]: ========================================
+2026-11-05 02:15:36 [INFO] [CargaDatos]: Cargando archivo desde: /workspaces/analisis-datos-turismo/datos/datos_procesados_turismo.csv
+2026-11-05 02:15:36 [INFO] [CargaDatos]: Carga exitosa: 10000 filas y 15 columnas.
+2026-11-05 02:15:37 [INFO] [Visualizaciones]: Gráfico Seaborn guardado en: /workspaces/analisis-datos-turismo/output/graficos/vis1_gasto_alojamiento_box.png
+2026-11-05 02:15:42 [INFO] [Visualizaciones]: Gráfico Plotly guardado en: /workspaces/analisis-datos-turismo/output/graficos/vis2_tendencia_mensual.html
+2026-11-05 02:15:43 [INFO] [Reporte]: Informe Excel generado en: /workspaces/analisis-datos-turismo/output/informes/informe_ejecutivo.xlsx
+2026-11-05 02:15:43 [INFO] [PipelineMain]: ========================================
+2026-11-05 02:15:43 [INFO] [PipelineMain]: PIPELINE FINALIZADO EN 6.74 SEGUNDOS
+2026-11-05 02:15:43 [INFO] [PipelineMain]: ========================================
+2026-11-05 21:41:35 [INFO] [PipelineMain]: ========================================
+2026-11-05 21:41:35 [INFO] [PipelineMain]: INICIANDO PIPELINE DE ANÁLISIS DE DATOS
+2026-11-05 21:41:35 [INFO] [PipelineMain]: ========================================
+2026-11-05 21:41:35 [INFO] [CargaDatos]: Cargando archivo desde: /workspaces/analisis-datos-turismo/datos/datos_procesados_turismo.csv
+2026-11-05 21:41:35 [INFO] [CargaDatos]: Carga exitosa: 10000 filas y 15 columnas.
+2026-11-05 21:41:37 [INFO] [Visualizaciones]: Gráfico Seaborn guardado en: /workspaces/analisis-datos-turismo/output/graficos/vis1_gasto_alojamiento_box.png
+2026-11-05 21:41:39 [INFO] [Visualizaciones]: Gráfico Plotly guardado en: /workspaces/analisis-datos-turismo/output/graficos/vis2_tendencia_mensual.html
+2026-11-05 21:41:39 [INFO] [Reporte]: Informe Excel generado en: /workspaces/analisis-datos-turismo/output/informes/informe_ejecutivo.xlsx
+2026-11-05 21:41:39 [INFO] [PipelineMain]: ========================================
+2026-11-05 21:41:39 [INFO] [PipelineMain]: PIPELINE FINALIZADO EN 4.83 SEGUNDOS
+2026-11-05 21:41:39 [INFO] [PipelineMain]: ========================================
+2026-11-05 21:43:16 [INFO] [CargaDatos]: Cargando archivo desde: /workspaces/analisis-datos-turismo/datos/datos_procesados_turismo.csv
+2026-11-05 21:43:16 [INFO] [CargaDatos]: Carga exitosa: 10000 filas y 15 columnas.
+2026-11-05 21:45:46 [INFO] [PipelineMain]: ========================================
+2026-11-05 21:45:46 [INFO] [PipelineMain]: INICIANDO PIPELINE DE ANÁLISIS DE DATOS
+2026-11-05 21:45:46 [INFO] [PipelineMain]: ========================================
+2026-11-05 21:45:46 [INFO] [CargaDatos]: Cargando archivo desde: /workspaces/analisis-datos-turismo/datos/datos_procesados_turismo.csv
+2026-11-05 21:45:46 [INFO] [CargaDatos]: Carga exitosa: 10000 filas y 15 columnas.
+2026-11-05 21:45:47 [INFO] [Visualizaciones]: Gráfico Seaborn guardado en: /workspaces/analisis-datos-turismo/output/graficos/vis1_gasto_alojamiento_box.png
+2026-11-05 21:45:47 [INFO] [Visualizaciones]: Gráfico Plotly guardado en: /workspaces/analisis-datos-turismo/output/graficos/vis2_tendencia_mensual.html
+2026-11-05 21:45:48 [INFO] [Reporte]: Informe Excel generado en: /workspaces/analisis-datos-turismo/output/informes/informe_ejecutivo.xlsx
+2026-11-05 21:45:48 [INFO] [PipelineMain]: ========================================
+2026-11-05 21:45:48 [INFO] [PipelineMain]: PIPELINE FINALIZADO EN 1.78 SEGUNDOS
+2026-11-05 21:45:48 [INFO] [PipelineMain]: ========================================
+2026-11-05 21:58:50 [INFO] [CargaDatos]: Cargando archivo desde: /workspaces/analisis-datos-turismo/datos/datos_procesados_turismo.csv
+2026-11-05 21:58:50 [INFO] [CargaDatos]: Carga exitosa: 10000 filas y 15 columnas.
+2026-11-05 22:01:33 [INFO] [CargaDatos]: Cargando archivo desde: /workspaces/analisis-datos-turismo/datos/datos_procesados_turismo.csv
+2026-11-05 22:01:33 [INFO] [CargaDatos]: Carga exitosa: 10000 filas y 15 columnas.
+2026-11-05 22:48:09 [INFO] [PipelineMain]: ========================================
+2026-11-05 22:48:09 [INFO] [PipelineMain]: INICIANDO PIPELINE DE ANÁLISIS DE DATOS
+2026-11-05 22:48:09 [INFO] [PipelineMain]: ========================================
+2026-11-05 22:48:09 [INFO] [CargaDatos]: Cargando archivo desde: /workspaces/analisis-datos-turismo/datos/datos_procesados_turismo.csv
+2026-11-05 22:48:09 [INFO] [CargaDatos]: Carga exitosa: 10000 filas y 15 columnas.
+2026-11-05 22:48:10 [INFO] [Visualizaciones]: Gráfico Seaborn guardado en: /workspaces/analisis-datos-turismo/output/graficos/vis1_gasto_alojamiento_box.png
+2026-11-05 22:48:12 [INFO] [Visualizaciones]: Gráfico Plotly guardado en: /workspaces/analisis-datos-turismo/output/graficos/vis2_tendencia_mensual.html
+2026-11-05 22:48:13 [INFO] [Reporte]: Informe Excel generado en: /workspaces/analisis-datos-turismo/output/informes/informe_ejecutivo.xlsx
+2026-11-05 22:48:13 [INFO] [PipelineMain]: ========================================
+2026-11-05 22:48:13 [INFO] [PipelineMain]: PIPELINE FINALIZADO EN 3.89 SEGUNDOS
+2026-11-05 22:48:13 [INFO] [PipelineMain]: ========================================

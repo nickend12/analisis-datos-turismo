@@ -78,6 +78,11 @@ La elección considera la complejidad del dataset, la necesidad de combinar visu
 * **Archivo de salida:** `output/graficos/vis2_tendencia_mensual.html`
 > **Descripción:** Gráfico temporal interactivo que permite explorar el comportamiento mensual acumulado del gasto total y la frecuencia de viajes. Puede abrirse con cualquier navegador web.
 
+## 🎥 Video de presentación del proyecto
+
+Enlace del video:
+https://drive.google.com/file/d/1kdnEz0DhO_ZRTERdkA07a4UgoWEtB7NP/view?usp=sharing
+
 ---
 
 ## 🛠️ Requisitos Previos
