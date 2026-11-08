@@ -17,7 +17,8 @@ analisis diferentes tipos datos/
 ├── output/
 │   ├── graficos/
 │   │   ├── vis1_gasto_alojamiento_box.png # Visualización estática (Seaborn)
-│   │   └── vis2_tendencia_mensual.html    # Visualización interactiva (Plotly)
+│   │   ├── vis2_tendencia_mensual.html    # Visualización interactiva (Plotly)
+│   │   └── vis2_tendencia_mensual.png     # Vista previa estática
 │   ├── informes/
 │   │   ├── informe_ejecutivo.xlsx         # Resumen ejecutivo y estadísticos
 │   │   ├── reporte_errores_datos.xlsx     # Auditoría de calidad de datos
@@ -75,6 +76,10 @@ La elección considera la complejidad del dataset, la necesidad de combinar visu
 > **Descripción:** Muestra la variabilidad y dispersión del gasto diario según el tipo de alojamiento (Hotel, Hostal, Cabaña, Departamento) segmentado por motivo de viaje (Negocios, Vacaciones, Familiar).
 
 ### 2. Tendencia Mensual de Gasto e Ingresos Totales (Plotly)
+![Tendencia mensual del gasto](output/graficos/vis2_tendencia_mensual.png)
+
+📈 [Abrir gráfica interactiva de tendencia mensual](output/graficos/vis2_tendencia_mensual.html)
+
 * **Archivo de salida:** `output/graficos/vis2_tendencia_mensual.html`
 > **Descripción:** Gráfico temporal interactivo que permite explorar el comportamiento mensual acumulado del gasto total y la frecuencia de viajes. Puede abrirse con cualquier navegador web.
 
